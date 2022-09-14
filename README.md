@@ -1,5 +1,10 @@
 # Paper List
 
+## **Survey**
+
+- A continual learning survey: Defying forgetting in classification tasks (TPAMI 2021) [[paper](https://readpaper.com/paper/3030364939)]
+- Continual Object Detection: A review of definitions, strategies, and challenges (arxiv 2022)[[paper](https://readpaper.com/paper/4629927221545418753)]
+
 ## **Class-Incremental Learning**
 
 - Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer (**ECCV2022**) [[paper](https://arxiv.org/abs/2208.03767)] [[code](https://github.com/ashok-arjun/CSCCT)]
