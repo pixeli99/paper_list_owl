@@ -1,4 +1,4 @@
-# Paper List
+# Open World Paper List
 
 ## **Survey**
 
@@ -32,7 +32,7 @@
 - Wanderlust: Online Continual Object Detection in the Real World (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Wanderlust_Online_Continual_Object_Detection_in_the_Real_World_ICCV_2021_paper.pdf)]
 - Incremental Few-Shot Object Detection (**CVPR2020**) [[paper](https://arxiv.org/pdf/2003.04668.pdf)]
 
-## Open World
+## Open Set
 
 - [x] Towards Open World Object Detection (**CVPR, 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.pdf)] [[code](https://github.com/JosephKJ/OWOD)] [[video](https://www.youtube.com/watch?v=aB2ZFAR-OZg)]
 - [x] Revisiting Open World Object Detection(**CVPR, 2022**)[[paper](https://arxiv.org/abs/2201.00471)]
