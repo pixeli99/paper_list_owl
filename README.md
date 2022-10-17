@@ -2,9 +2,9 @@
 
 ## **Survey**
 
-- A continual learning survey: Defying forgetting in classification tasks (TPAMI 2021) [[paper](https://readpaper.com/paper/3030364939)]
-- Continual Object Detection: A review of definitions, strategies, and challenges (arxiv 2022)[[paper](https://readpaper.com/paper/4629927221545418753)]
-
+-[x] A continual learning survey: Defying forgetting in classification tasks (TPAMI 2021) [[paper](https://readpaper.com/paper/3030364939)]
+-[x] Continual Object Detection: A review of definitions, strategies, and challenges (arxiv 2022)[[paper](https://readpaper.com/paper/4629927221545418753)]
+-[x] Generalized Out-of-Distribution Detection: A Survey (arxiv 2021) [[paper](https://arxiv.org/abs/2110.11334)] [[code](https://github.com/Jingkang50/OODSurvey)]
 ## **Class-Incremental Learning**
 
 - Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer (**ECCV2022**) [[paper](https://arxiv.org/abs/2208.03767)] [[code](https://github.com/ashok-arjun/CSCCT)]
@@ -32,17 +32,19 @@
 - Wanderlust: Online Continual Object Detection in the Real World (**ICCV, 2021**) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Wanderlust_Online_Continual_Object_Detection_in_the_Real_World_ICCV_2021_paper.pdf)]
 - Incremental Few-Shot Object Detection (**CVPR2020**) [[paper](https://arxiv.org/pdf/2003.04668.pdf)]
 
-## Open vocabulary detection
+## Open World
 
-- Towards Open World Object Detection (**CVPR, 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.pdf)] [[code](https://github.com/JosephKJ/OWOD)] [[video](https://www.youtube.com/watch?v=aB2ZFAR-OZg)]
-- Revisiting Open World Object Detection(**CVPR, 2022**)[[paper](https://arxiv.org/abs/2201.00471)]
-- OW-DETR: Open-world Detection Transformer (**CVPR, 2022**)[[paper](https://arxiv.org/abs/2112.01513)]
-- Simple Open-Vocabulary Object Detection with Vision Transformers(**arxiv, 2022**)[[paper](https://arxiv.org/abs/2205.06230)][[code](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)]
-- Zero-Shot Object Detection(**ECCV, 2018**)[[paper](https://readpaper.com/paper/2796497263)]
-- Open-vocabulary Object Detection via Vision and Language Knowledge Distillation(**ICLR, 2022**)[[paper](https://readpaper.com/paper/3206072662)]
-- MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding(**ICCV, 2021**)[[paper](https://readpaper.com/paper/3203833108)]
-- Open-Vocabulary Object Detection Using Captions(**CVPR 2020**)[[paper](https://readpaper.com/paper/3110226019)]
-- Detecting Twenty-thousand Classes using Image-level Supervision(**arxiv, 2022**)[[paper](https://readpaper.com/paper/640386820917460992)].
-- RegionCLIP: Region-based Language-Image Pretraining(**arxiv, 2022**)[[paper](https://readpaper.com/paper/4569784360606113793)]
-- Grounded Language-Image Pre-training(**arxiv, 2022**)[[paper](https://readpaper.com/paper/628451295579381760)]
-- PromptDet: Towards Open-vocabulary Detection using Uncurated Images(**ECCV 2022**)[[paper](https://arxiv.org/abs/2203.16513)][[code](https://github.com/fcjian/PromptDet)]
+- [x] Towards Open World Object Detection (**CVPR, 2021**) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Joseph_Towards_Open_World_Object_Detection_CVPR_2021_paper.pdf)] [[code](https://github.com/JosephKJ/OWOD)] [[video](https://www.youtube.com/watch?v=aB2ZFAR-OZg)]
+- [x] Revisiting Open World Object Detection(**CVPR, 2022**)[[paper](https://arxiv.org/abs/2201.00471)]
+- [x] OW-DETR: Open-world Detection Transformer (**CVPR, 2022**)[[paper](https://arxiv.org/abs/2112.01513)]
+- [ ] Simple Open-Vocabulary Object Detection with Vision Transformers(**arxiv, 2022**)[[paper](https://arxiv.org/abs/2205.06230)][[code](https://github.com/google-research/scenic/tree/main/scenic/projects/owl_vit)]
+- [ ] Zero-Shot Object Detection(**ECCV, 2018**)[[paper](https://readpaper.com/paper/2796497263)]
+- [ ] Open-vocabulary Object Detection via Vision and Language Knowledge Distillation(**ICLR, 2022**)[[paper](https://readpaper.com/paper/3206072662)]
+- [ ] MDETR -- Modulated Detection for End-to-End Multi-Modal Understanding(**ICCV, 2021**)[[paper](https://readpaper.com/paper/3203833108)]
+- [ ] Open-Vocabulary Object Detection Using Captions(**CVPR 2020**)[[paper](https://readpaper.com/paper/3110226019)]
+- [ ] Detecting Twenty-thousand Classes using Image-level Supervision(**arxiv, 2022**)[[paper](https://readpaper.com/paper/640386820917460992)].
+- [ ] RegionCLIP: Region-based Language-Image Pretraining(**arxiv, 2022**)[[paper](https://readpaper.com/paper/4569784360606113793)]
+- [ ] Grounded Language-Image Pre-training(**arxiv, 2022**)[[paper](https://readpaper.com/paper/628451295579381760)]
+- [ ] PromptDet: Towards Open-vocabulary Detection using Uncurated Images(**ECCV 2022**)[[paper](https://arxiv.org/abs/2203.16513)][[code](https://github.com/fcjian/PromptDet)]
+- [x] Opening up Open-World Tracking(**CVPR 2022**)[[paper](https://arxiv.org/pdf/2104.11221.pdf)][[code](https://openworldtracking.github.io/)]
+- [x] UBnormal: New Benchmark for Supervised Open-Set Video Anomaly Detection(**CVPR 2022**)[[paper](https://arxiv.org/pdf/2111.08644.pdf)][[code](https://github.com/lilygeorgescu/UBnormal)]
