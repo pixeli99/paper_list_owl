@@ -2,9 +2,9 @@
 
 ## **Survey**
 
--[x] A continual learning survey: Defying forgetting in classification tasks (TPAMI 2021) [[paper](https://readpaper.com/paper/3030364939)]
--[x] Continual Object Detection: A review of definitions, strategies, and challenges (arxiv 2022)[[paper](https://readpaper.com/paper/4629927221545418753)]
--[x] Generalized Out-of-Distribution Detection: A Survey (arxiv 2021) [[paper](https://arxiv.org/abs/2110.11334)] [[code](https://github.com/Jingkang50/OODSurvey)]
+- [x] A continual learning survey: Defying forgetting in classification tasks (TPAMI 2021) [[paper](https://readpaper.com/paper/3030364939)]
+- [x] Continual Object Detection: A review of definitions, strategies, and challenges (arxiv 2022)[[paper](https://readpaper.com/paper/4629927221545418753)]
+- [x] Generalized Out-of-Distribution Detection: A Survey (arxiv 2021) [[paper](https://arxiv.org/abs/2110.11334)] [[code](https://github.com/Jingkang50/OODSurvey)]
 ## **Class-Incremental Learning**
 
 - Class-Incremental Learning with Cross-Space Clustering and Controlled Transfer (**ECCV2022**) [[paper](https://arxiv.org/abs/2208.03767)] [[code](https://github.com/ashok-arjun/CSCCT)]
