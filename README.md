@@ -45,4 +45,4 @@
 - Detecting Twenty-thousand Classes using Image-level Supervision(**arxiv, 2022**)[[paper](https://readpaper.com/paper/640386820917460992)].
 - RegionCLIP: Region-based Language-Image Pretraining(**arxiv, 2022**)[[paper](https://readpaper.com/paper/4569784360606113793)]
 - Grounded Language-Image Pre-training(**arxiv, 2022**)[[paper](https://readpaper.com/paper/628451295579381760)]
-- test
+- PromptDet: Towards Open-vocabulary Detection using Uncurated Images(**ECCV 2022**)[[paper](https://arxiv.org/abs/2203.16513)][[code](https://github.com/fcjian/PromptDet)]
